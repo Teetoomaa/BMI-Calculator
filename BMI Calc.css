@@ -1,0 +1,126 @@
+* {
+  padding: 0;
+  margin: 0;
+  font-family: "Poppins", sans-serif;
+}
+
+.header ul li {
+  list-style-type: none;
+  display: inline-block;
+  padding: 5px 10px;
+  padding-top: 115px;
+  margin-left: 89px;
+  font-family: "Poppins", sans-serif;
+}
+
+.header span {
+  color: #6c63ff;
+}
+
+.btn {
+  position: absolute;
+  background-color: #d9d9d9;
+  color: rgb(0, 0, 0);
+  text-decoration: none;
+  border: 2px solid transparent;
+  font-weight: bold;
+  left: 1200px;
+  top: 110px;
+  padding: 10px 25px;
+  border-radius: 6px;
+}
+.text {
+  position: absolute;
+  width: 409.74px;
+  height: 62px;
+  left: 100px;
+  top: 200px;
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 50px;
+  line-height: 81px;
+  color: #000000;
+}
+
+.image {
+  position: absolute;
+  width: 500px;
+  height: 600px;
+  left: 693px;
+  top: 176px;
+}
+
+span {
+  font-weight: normal;
+}
+
+.show {
+  position: absolute;
+  width: 108px;
+  height: 27px;
+  left: 100px;
+  top: 366px;
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 27px;
+  color: #000000;
+}
+
+.see {
+  position: absolute;
+  width: 106px;
+  height: 27px;
+  left: 100px;
+  top: 461px;
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 27px;
+  color: #000000;
+}
+
+.bttn {
+  position: absolute;
+  background-color: #d9d9d9;
+  color: rgb(0, 0, 0);
+  text-decoration: none;
+  font-weight: bold;
+  font-size: 14px;
+  left: 4px;
+  top: 120px;
+  padding: 7px 18px;
+  border-radius: 6px;
+  border: 2px solid transparent;
+}
+
+.msg h3 {
+  position: absolute;
+  width: 176px;
+  height: 59px;
+  left: 104px;
+  top: 650px;
+  font-family: "Poppins", sans-serif;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 30px;
+  line-height: 59px;
+  color: #000000;
+}
+
+.msg h5 {
+  position: absolute;
+  width: 66px;
+  height: 30px;
+  left: 104px;
+  top: 725px;
+  font-family: "Poppins", sans-serif;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 12px;
+  line-height: 30px;
+  color: #000000;
+}
